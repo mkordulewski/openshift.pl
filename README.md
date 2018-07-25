@@ -1,6 +1,6 @@
 # OpenShift.pl
 
 * Polish OpenShift website:
-  * http://openshift.pl/
+  * https://openshift.pl/
 * Based on main OpenShift website:
   * https://www.openshift.org/
